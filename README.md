@@ -1,1 +1,1 @@
-In here I will practice everything I have learned so far for HTML, I will build a basic recipe website.
+In here I will practice everything I have learned so far for HTML, I will build a basic recipe website. There will be links, images and lists involved.
